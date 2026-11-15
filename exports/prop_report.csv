@@ -353,7 +353,7 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Evan Engram,TE,DEN,reception_yds,30.5,-112,-110,3,20.6,18.8,2,5,-9.9,0.4,2/5,,
 10,DJ Moore,WR,BUF,reception_yds,47.5,-113,-111,3,37.0,47.5,2,5,-10.5,0.4,2/5,NYJ,
 10,Rachaad White,RB,WAS,rush_yds,45.5,-110,-120,2,35.0,34.4,2,5,-10.5,0.4,2/5,NYG,
-10,Ladd McConkey,WR,LAC,reception_yds,51.5,-113,-110,3,40.8,47.7,2,5,-10.7,0.4,2/5,BAL,
+10,Ladd McConkey,WR,LAC,reception_yds,51.5,-113,-110,3,40.8,47.7,2,5,-10.7,0.4,2/5,BAL,Questionable
 10,Makai Lemon,WR,PHI,reception_yds,60.5,-114,-114,2,49.4,34.7,2,5,-11.1,0.4,2/5,,
 10,Patrick Mahomes,QB,KC,pass_yds,257.5,-114,-114,2,245.0,254.6,2,5,-12.5,0.4,2/5,ATL,
 10,Puka Nacua,WR,LA,reception_yds,117.5,-114,-114,2,103.2,102.1,2,5,-14.3,0.4,2/5,ARI,
@@ -432,7 +432,7 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Baker Mayfield,QB,TB,pass_tds,1.5,134,-163,3,0.6,0.5,0,5,-0.9,0.0,0/5,,
 10,Brock Purdy,QB,SF,pass_tds,2.5,146,-178,3,1.6,2.1,0,5,-0.9,0.0,0/5,DAL,
 10,Kenneth Walker III,RB,KC,receptions,4.5,-135,100,1,3.0,3.2,0,5,-1.5,0.0,0/5,ATL,Questionable
-10,Ladd McConkey,WR,LAC,receptions,4.5,126,128,3,2.4,2.8,0,5,-2.1,0.0,0/5,BAL,
+10,Ladd McConkey,WR,LAC,receptions,4.5,126,128,3,2.4,2.8,0,5,-2.1,0.0,0/5,BAL,Questionable
 10,Patrick Mahomes,QB,KC,pass_tds,3.5,120,-160,1,1.4,1.8,0,5,-2.1,0.0,0/5,ATL,
 10,Justin Jefferson,WR,MIN,receptions,6.5,-101,-115,3,4.0,4.4,0,5,-2.5,0.0,0/5,GB,
 10,Javonte Williams,RB,DAL,receptions,4.5,155,-210,1,1.8,2.7,0,5,-2.7,0.0,0/5,SF,
