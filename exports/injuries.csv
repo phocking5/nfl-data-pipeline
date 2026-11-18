@@ -528,7 +528,6 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,8,GB,00-0040667,Matthew Golden,WR,Shoulder,Questionable,Limited Participation in Practice
 2026,8,GB,00-0040689,Anthony Campbell,DT,Ankle,Questionable,Limited Participation in Practice
 2026,8,IND,00-0033269,Rigoberto Sanchez,P,,,Full Participation in Practice
-2026,8,IND,00-0037190,Sauce Gardner,CB,,,Full Participation in Practice
 2026,8,IND,00-0039736,Matt Goncalves,G,,,Full Participation in Practice
 2026,8,IND,00-0040128,Tyler Warren,TE,,,Full Participation in Practice
 2026,8,IND,00-0040207,Tim Smith,DT,,,Full Participation in Practice
@@ -677,7 +676,6 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,9,HOU,00-0037246,Jalen Pitre,S,,,Full Participation in Practice
 2026,9,IND,00-0030279,Keenan Allen,WR,,,Full Participation in Practice
 2026,9,IND,00-0037292,Andrew Ogletree,TE,,,Full Participation in Practice
-2026,9,IND,00-0039816,Anthony Gould,WR,,,Full Participation in Practice
 2026,9,IND,00-0041518,Bryce Boettcher,LB,,,Full Participation in Practice
 2026,9,JAX,00-0033038,Eric Murray,S,,,Did Not Participate In Practice
 2026,9,JAX,00-0036262,DaVon Hamilton,DT,,,Did Not Participate In Practice
@@ -897,34 +895,15 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,10,GB,00-0039867,Javon Bullard,S,Ankle,Questionable,Limited Participation in Practice
 2026,10,GB,00-0040009,Savion Williams,WR,,,Limited Participation in Practice
 2026,10,GB,00-0040899,Trey Smack,K,,,Full Participation in Practice
-2026,10,HOU,00-0031565,Danielle Hunter,DE,Hamstring,Out,Did Not Participate In Practice
 2026,10,HOU,00-0032071,Trent Brown,T,Wrist,Questionable,Did Not Participate In Practice
-2026,10,HOU,00-0034399,Wyatt Teller,G,Illness,Questionable,Limited Participation in Practice
-2026,10,HOU,00-0035166,Azeez Al-Shaair,LB,Groin,Out,Did Not Participate In Practice
-2026,10,HOU,00-0035685,David Montgomery,RB,Groin,Questionable,Full Participation in Practice
-2026,10,HOU,00-0036556,Brevin Jordan,TE,Finger,Out,Did Not Participate In Practice
 2026,10,HOU,00-0036883,Tommy Togiai,DT,,,Full Participation in Practice
-2026,10,HOU,00-0037130,Reed Blankenship,S,,,Full Participation in Practice
-2026,10,HOU,00-0037633,Jacob Hummel,LB,Groin,Questionable,Full Participation in Practice
-2026,10,HOU,00-0038977,Tank Dell,WR,,,Full Participation in Practice
 2026,10,HOU,00-0039108,Will Anderson Jr.,DE,Ankle,Questionable,Did Not Participate In Practice
-2026,10,HOU,00-0039849,Marvin Harrison Jr.,WR,Hamstring,Out,Did Not Participate In Practice
-2026,10,HOU,00-0039857,Blake Fisher,T,,,Full Participation in Practice
-2026,10,HOU,00-0040149,Jaylin Smith,CB,Hamstring,Questionable,Full Participation in Practice
-2026,10,HOU,00-0040583,Woody Marks,RB,,,Full Participation in Practice
-2026,10,HOU,00-0041532,Keylan Rutledge,G,Neck,Out,Did Not Participate In Practice
-2026,10,IND,00-0032753,Luke Rhodes,LS,Hamstring,Out,Did Not Participate In Practice
 2026,10,IND,00-0033217,Mo Alie-Cox,TE,Groin,Out,Did Not Participate In Practice
 2026,10,IND,00-0033952,Grover Stewart,DT,,,Full Participation in Practice
-2026,10,IND,00-0034573,Charvarius Ward,CB,,,Full Participation in Practice
 2026,10,IND,00-0034825,Arden Key,DE,,,Full Participation in Practice
-2026,10,IND,00-0035674,Jerry Tillery,DT,Calf,Out,Did Not Participate In Practice
 2026,10,IND,00-0036223,Jonathan Taylor,RB,,,Full Participation in Practice
 2026,10,IND,00-0036298,Akeem Davis-Gaither,LB,Knee,Out,Did Not Participate In Practice
-2026,10,IND,00-0038394,Will Mallory,TE,Hamstring,Questionable,Limited Participation in Practice
-2026,10,IND,00-0039377,Jaylon Carlies,LB,Neck,Out,Did Not Participate In Practice
 2026,10,IND,00-0040139,Justin Walley,CB,,,Full Participation in Practice
-2026,10,IND,00-0040163,Jalen Travis,T,Knee,Out,Did Not Participate In Practice
 2026,10,IND,00-0041039,CJ Allen,LB,,,Full Participation in Practice
 2026,10,IND,00-0041043,A.J. Haulcy,S,,,Full Participation in Practice
 2026,10,JAX,00-0034675,Jessie Bates,S,Not injury related - resting player,Out,Limited Participation in Practice
@@ -1116,3 +1095,29 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,10,WAS,00-0039686,Colson Yankoff,TE,Knee,Out,Did Not Participate In Practice
 2026,10,WAS,00-0039910,Jayden Daniels,QB,,,Full Participation in Practice
 2026,10,WAS,00-0041108,Matt Gulbin,C,,,Full Participation in Practice
+2026,11,HOU,00-0031565,Danielle Hunter,DE,,,Did Not Participate In Practice
+2026,11,HOU,00-0034399,Wyatt Teller,G,,,Full Participation in Practice
+2026,11,HOU,00-0035166,Azeez Al-Shaair,LB,,,Did Not Participate In Practice
+2026,11,HOU,00-0035685,David Montgomery,RB,,,Full Participation in Practice
+2026,11,HOU,00-0036556,Brevin Jordan,TE,,,Did Not Participate In Practice
+2026,11,HOU,00-0037130,Reed Blankenship,S,,,Full Participation in Practice
+2026,11,HOU,00-0037633,Jacob Hummel,LB,,,Limited Participation in Practice
+2026,11,HOU,00-0038977,Tank Dell,WR,,,Full Participation in Practice
+2026,11,HOU,00-0039343,Kamari Lassiter,CB,,,Did Not Participate In Practice
+2026,11,HOU,00-0039849,Marvin Harrison Jr.,WR,,,Did Not Participate In Practice
+2026,11,HOU,00-0039857,Blake Fisher,T,,,Full Participation in Practice
+2026,11,HOU,00-0040149,Jaylin Smith,CB,,,Full Participation in Practice
+2026,11,HOU,00-0040583,Woody Marks,RB,,,Did Not Participate In Practice
+2026,11,HOU,00-0041532,Keylan Rutledge,G,,,Full Participation in Practice
+2026,11,HOU,00-0041559,Febechi Nwaiwu,G,,,Full Participation in Practice
+2026,11,IND,00-0032753,Luke Rhodes,LS,,,Limited Participation in Practice
+2026,11,IND,00-0034573,Charvarius Ward,CB,,,Did Not Participate In Practice
+2026,11,IND,00-0035674,Jerry Tillery,DT,,,Did Not Participate In Practice
+2026,11,IND,00-0036195,Charlie Heck,T,,,Did Not Participate In Practice
+2026,11,IND,00-0037190,Sauce Gardner,CB,,,Did Not Participate In Practice
+2026,11,IND,00-0037757,Bernhard Raimann,T,,,Did Not Participate In Practice
+2026,11,IND,00-0038394,Will Mallory,TE,,,Did Not Participate In Practice
+2026,11,IND,00-0039377,Jaylon Carlies,LB,,,Did Not Participate In Practice
+2026,11,IND,00-0039578,Dalton Tucker,G,,,Full Participation in Practice
+2026,11,IND,00-0039816,Anthony Gould,WR,,,Limited Participation in Practice
+2026,11,IND,00-0040163,Jalen Travis,T,,,Did Not Participate In Practice
